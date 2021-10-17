@@ -1,0 +1,6 @@
+#ifndef __ASH_CONSTANTS_H
+#define __ASH_CONSTANTS_H
+
+#define ASH_MAX_COMMAND_LENGTH 10001
+
+#endif
